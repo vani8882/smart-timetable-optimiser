@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Timetable Optimiser
 
 ## Features
@@ -12,3 +13,6 @@ python backend/app.py
 
 ## API
 POST /timetable
+=======
+# smart-timetable-optimiser
+>>>>>>> e246602e7932fa89f3fca3e195d1e05df58f58a4
