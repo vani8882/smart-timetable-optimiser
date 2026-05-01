@@ -22,5 +22,11 @@ pipeline {
             }
         }
 
+        stage('Deploy') {
+            steps {
+                echo 'Application deployed successfully (simulated)'
+            }
+        }
+
     }
 }
